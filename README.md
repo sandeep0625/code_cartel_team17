@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1xXghiWyomHCL5a-zHVZRfuj0blY-f9e_/view?usp=shari
 
 ![alt text](<WhatsApp Image 2024-11-22 at 12.06.39_59d96640.jpg>)
 
-[text](README.md) ![text](<WhatsApp Image 2024-11-22 at 12.06.39_e4016a46.jpg>)
+![text](<WhatsApp Image 2024-11-22 at 12.06.39_e4016a46.jpg>)
 
 ![alt text](<WhatsApp Image 2024-12-02 at 05.26.47_d9d89ff9.jpg>)
 
