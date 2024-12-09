@@ -16,7 +16,17 @@ https://drive.google.com/file/d/1xXghiWyomHCL5a-zHVZRfuj0blY-f9e_/view?usp=shari
 
 ### **2. Images**
 
+![alt text](<WhatsApp Image 2024-11-14 at 22.03.01_b9d1a897.jpg>)
+
+![alt text](<WhatsApp Image 2024-11-22 at 12.06.39_59d96640.jpg>)
+
+[text](README.md) ![text](<WhatsApp Image 2024-11-22 at 12.06.39_e4016a46.jpg>)
+
+![alt text](<WhatsApp Image 2024-12-02 at 05.26.47_d9d89ff9.jpg>)
+
 ![alt text](<WhatsApp Image 2024-12-06 at 03.23.05_f229ed10.jpg>)
+
+<video controls src="WhatsApp Video 2024-11-14 at 22.03.03_528e18b5.mp4" title="Title"></video>
 
 
 ### **3. Results**
