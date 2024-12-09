@@ -4,7 +4,7 @@
 * Team Name: **Code Cartel**
 * Team Members: **Surya Sandeep Akella, Venkata Mahati Gollapudi**
 * Github Repository URL: https://github.com/upenn-embedded/final-project-code-cartel
-* Github Pages Website URL: [for final submission]
+* Github Pages Website URL: https://sandeep0625.github.io/code_cartel_team17/
 
 
 ## Background
@@ -65,6 +65,8 @@ The primary users of the system include:
 2. Industrial Workers: For use in environments where direct manual operation is unsafe.
 
 3. Educational Institutions: For teaching purposes in robotics, mechatronics, or control systems labs.
+
+4. Medical Surgeies: For medical surgeries and assitance for doctors. 
 
 
 ### 3.1 Software Requirements Specification (SRS) 
@@ -211,12 +213,17 @@ SRS Validation
     
         Testing setup showed ease of component replacement and reconnection.
 
+## **4. Conclusion**
 
-### **4. Conclusion**
+### What would we have done differently?
+
+1. We would've incorporated wireless communication, such as Bluetooth or Wi-Fi, to enable remote control or monitoring of the robotic arm.
+2. Worked on optimizing the physical design of the robotic arm for better strength, precision, and durability.
+
+
 
 The Gesture-Controlled Robotic Arm project successfully demonstrates the integration of sensors, microcontrollers, and servo motors to create an intuitive and interactive system. By leveraging the MPU6050 IMU sensor and a flex sensor, the robotic arm translates natural hand gestures into precise motor movements, enabling control across multiple axes. The system is built around the reliable ATmega328PB microcontroller, ensuring efficient processing of sensor data and generation of PWM signals for servo control.
 
 This project showcases the potential for gesture-based interfaces in applications such as assistive technologies, industrial automation, and remote operations. The design adheres to the specified hardware and software requirements, including accurate timing for IMU data sampling and smooth motion control through PWM signals. While the system performs reliably, potential future enhancements include optimizing sensor calibration, adding more degrees of freedom, and incorporating wireless communication for remote operation.
 
 Overall, the project demonstrates a robust implementation of a gesture-controlled system and highlights its feasibility for practical use cases.
-
